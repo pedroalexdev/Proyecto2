@@ -6,7 +6,7 @@
 body{
     display: flex;
     justify-content: center;
-    background-color: black;
+    background-color: blue;
 }
 .container{
     display: flex;
@@ -32,7 +32,8 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: center;
+    text-align: left;
+    padding: 10px;
 }
 
 .post h1{
