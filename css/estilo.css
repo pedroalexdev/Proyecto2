@@ -26,7 +26,7 @@ body{
 .post{
     border: 1px solid black;
     width: 70vw;
-    height: 250px;
+    height: 300px;
     color: black;
     background-color: white;
     display: flex;
