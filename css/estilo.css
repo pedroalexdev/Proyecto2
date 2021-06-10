@@ -6,6 +6,7 @@
 body{
     display: flex;
     justify-content: center;
+    background-color: black;
 }
 .container{
     display: flex;
@@ -27,6 +28,7 @@ body{
     width: 70vw;
     height: 250px;
     color: black;
+    background-color: white;
     display: flex;
     justify-content: center;
     flex-direction: column;
