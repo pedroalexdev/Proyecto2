@@ -7,3 +7,5 @@ Hagamos merge, pull request, push, de todo en todo este mundo maravilloso llevo 
 Cuesta? claro que cuesta pero con disciplina y muchos deseos de mejorar cada día, se puede, ánimos que si se puede.
 
 Un día sientes que el mundo no vale la pena pero créanme, lo vale todo ya que de él dependemos, para beber agua, respirar, tomar el sol, ver las estrellas brillar, escuchar las aves cantar, los animales, las puestas de sol, todo es maravilloso en el mundo y por ello hay que trabajar mucho.
+
+Dia 16, estamos a punto de terminar el curso de Git y Github y hemos aprendido un montón, pero sabemos que solo la práctica puede hacernos una maestría en este campo que es tan grande de la tecnología.
