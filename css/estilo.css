@@ -5,7 +5,8 @@
 }
 body{
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     background-color: black;
 }
 .container{
@@ -29,7 +30,6 @@ body{
     height: 300px;
     color: black;
     background-color: white;
-    display: flex;
     justify-content: center;
     flex-direction: column;
     text-align: left;
@@ -38,4 +38,17 @@ body{
 
 .post h1{
     margin: 0 0 20px 0;
+}
+footer{
+    width: 70vw;
+    height: 70px;
+    text-align: center;
+    background-color: dimgrey;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer p{
+    width: 200px;
 }
